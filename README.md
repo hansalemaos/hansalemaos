@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![hansalemaos](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalemaos&hide=html&theme=default&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![hansalemaos](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalemaos&hide=css&hide=html&theme=default&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hansalemaos/hansalemaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
