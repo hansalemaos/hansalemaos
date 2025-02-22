@@ -9,10 +9,13 @@ I started my career as a programmer before transitioning to teaching German. In 
 - **Programming Languages (intermediate knowlege):** C++, C
 - **Programming Languages (basic knowlege):** Zig, Kotlin, Java, JavaScript, PHP
 
-## 💻 What I like
-- Natural Language Processing (NLP): The catalyst that reignited my passion for programming.
-- Android Automation
-- Windows Game Automation
-- Web Scraping
-- Social Media Automation
-- Computer Vision
+## 💻 Programming - What I like
+- **Natural Language Processing (NLP):** The catalyst that reignited my passion for programming.
+- **Android Automation**
+- **Windows Game Automation**
+- **Web Scraping**
+- **Social Media Automation**
+- **Computer Vision**
+
+## Hobbys
+- **Brazilian Jiu-Jitsu (Black Belt):** Currently on hold following four hip surgeries in 2021.
