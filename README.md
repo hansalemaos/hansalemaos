@@ -1,17 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
+I started my career as a programmer before transitioning to teaching German. In 2021, I developed a bone infection and spent three months in the hospital. With plenty of downtime, I rediscovered my passion for programming—and now I'm back in the field.
 
-<!--
-**hansalemaos/hansalemaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+- **Spoken Languages:** German, English, Portuguese, Spanish
+- **Programming Languages (proficient):** Cython, Python, Awk, bash
+- **Programming Languages (intermediate knowlege):** C++, C
+- **Programming Languages (basic knowlege):** Zig, Kotlin, Java, JavaScript, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I like
+- Natural Language Processing (NLP): The catalyst that reignited my passion for programming.
+- Android Automation
+- Windows Game Automation
+- Web Scraping
+- Social Media Automation
+- Computer Vision
