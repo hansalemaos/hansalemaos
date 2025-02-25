@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I started my career as a programmer before transitioning to teaching German. In 2021, I developed a bone infection and spent three months in the hospital. With plenty of downtime, I rediscovered my passion for programming—and now I'm back in the field.
+More than 20 years ago, I started my career as a programmer before transitioning to teaching German. In 2021, I developed a bone infection and spent three months in the hospital. With plenty of downtime, I rediscovered my passion for programming—and now I'm back in the field.
 
 ## 🛠️ Tech Stack
 
