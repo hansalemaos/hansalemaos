@@ -18,4 +18,4 @@ More than 20 years ago, I started my career as a programmer before transitioning
 - **Computer Vision**
 
 ## Hobbys
-- **Brazilian Jiu-Jitsu (Black Belt):** Currently on hold following four hip surgeries in 2021.
+- **Brazilian Jiu-Jitsu (Black Belt):**
