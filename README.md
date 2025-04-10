@@ -18,4 +18,4 @@ More than 20 years ago, I started my career as a programmer before transitioning
 - **Computer Vision**
 
 ## Hobbys
-- **Brazilian Jiu-Jitsu (Black Belt):**
+- **Brazilian Jiu-Jitsu (Black Belt)**
