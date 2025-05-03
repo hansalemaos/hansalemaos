@@ -19,3 +19,6 @@ More than 20 years ago, I started my career as a programmer before transitioning
 
 ## Hobbys
 - **Brazilian Jiu-Jitsu (Black Belt)**
+
+![hansalemaos' github stats](https://github-readme-stats.vercel.app/api?username=hansalemaos&show_icons=true&theme=radical&include_all_commits=true) 
+
