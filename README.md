@@ -6,8 +6,8 @@ More than 20 years ago, I started my career as a programmer before transitioning
 
 - **Spoken Languages:** German, English, Portuguese, Spanish
 - **Programming Languages (proficient):** Cython, Python, Awk, Bash
-- **Programming Languages (intermediate knowlege):** C++, C
-- **Programming Languages (basic knowlege):** Zig, Kotlin, Java, JavaScript, PHP, Batch, Powershell, QBASIC 😊
+- **Programming Languages (intermediate knowlege):** C++, C, JavaScript
+- **Programming Languages (basic knowlege):** Zig, Kotlin, Java, Rust, PHP, Batch, Powershell, QBASIC 😊
 
 ## 💻 Programming - What I like
 - **Natural Language Processing (NLP):** The catalyst that reignited my passion for programming.
